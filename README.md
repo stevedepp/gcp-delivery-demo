@@ -4,8 +4,22 @@ A demo of development production environments implemented via gcloud
 (please click on the video below to hear sound)   
 ![demo](https://user-images.githubusercontent.com/38410965/111925621-0a688100-8a80-11eb-8087-4662b5a78992.mp4)
 
-transcript:  
-- **slide 0:**  hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.    
+
+## Demo Video 7
+### Development and Production Environments
+Steve Depp MSDS 434 section 55 
+
+Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build
+(this implements via gcloud the architecture demo'd via GCP console by Noah Gift [here](https://www.youtube.com/watch?v=_TfWdOvQXwU)
+
+**Development: Hello_world flask app with the usual suspects:**.  
+- app.yaml
+-	main.py
+-	requirements.txt
+-	Makefile
+
+> hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.    
+
 - **slide 1:** import dependencies.  
 - **slide 2:** test locally on a development server.  here we call **app create** before calling main.py with python but this could have gone in any order since app create still is a local development environment command.   
 - **slide 3:** we improve the code locally and re test.  we can see logs change here in light blue as we hit the end point.     
