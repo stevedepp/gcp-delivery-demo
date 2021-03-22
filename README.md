@@ -6,9 +6,7 @@ A demo of development production environments implemented via gcloud
 
 #
 
-### transcript / slides: 
-
-> **7.1** *hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.* 
+> **transcript / slides 7.1** *hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.* 
 
 ### Development and Production Environments
 Steve Depp MSDS 434 section 55 
