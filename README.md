@@ -26,7 +26,7 @@ Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build
 
 #
 
-> **transcript / slides 7.2** *import dependencies.*
+> **transcript for slide 7.2** *import dependencies.*
 
 ### Development: Hello_world flask app 
 
@@ -37,7 +37,7 @@ Import dependencies
 
 #
 
-> **transcript / slides 7.3** *test locally on a development server.  here we call **app create** before calling main.py with python but this could have gone in any order since app create still is a local development environment command.*   
+> **transcript for slide 7.3** *test locally on a development server.  here we call **app create** before calling main.py with python but this could have gone in any order since app create still is a local development environment command.*   
 
 ### Development: Hello_world flask app 
 
@@ -49,7 +49,7 @@ Test locally with development server locally
 
 #
 
-> **transcript / slides 7.4** *we improve the code locally and re test.  we can see logs change here in light blue as we hit the end point.*     
+> **transcript for slide 7.4** *we improve the code locally and re test.  we can see logs change here in light blue as we hit the end point.*     
 
 ### Development: Hello_world flask app 
 
@@ -61,7 +61,7 @@ Improve code and test locally
 
 #
 
-> **transcript / slides 7.5** *deploy to production and hit the production server at Google.*   
+> **transcript for slide 7.5** *deploy to production and hit the production server at Google.*   
 
 ### Deploy to Google Cloud - production 
 
@@ -71,7 +71,7 @@ Improve code and test locally
 
 #
 
-> **transcript / slides 7.6** *future development changes would be pushed to a development branch and then merged with master.  in this example any push from local terminal to GitHub master triggers a google app redeployment which is ...*   
+> **transcript for slide 7.6** *future development changes would be pushed to a development branch and then merged with master.  in this example any push from local terminal to GitHub master triggers a google app redeployment which is ...*   
 
 ### CICD   
 Automating GitHub commits to GCP deploy   
@@ -81,7 +81,7 @@ Automating GitHub commits to GCP deploy
 
 #
 
-> **transcript / slides 7.7** *... true cicd.  this is an example of that occurring, but ...*   
+> **transcript for slide 7.7** *... true cicd.  this is an example of that occurring, but ...*   
 
 ### CICD
 Development environment stages in GitHub —> merges deploy to production end user automatically
@@ -92,7 +92,7 @@ Development environment stages in GitHub —> merges deploy to production end us
 
 #
 
-> **transcript / slides 7.8** *... there was and still is a wrinkle with permissions.  thank you for watching.*
+> **transcript for slide 7.8** *... there was and still is a wrinkle with permissions.  thank you for watching.*
 
 ### Wrinkle:   
 CICD permissioning needs ironing out.
