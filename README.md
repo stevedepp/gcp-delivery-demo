@@ -18,7 +18,7 @@ Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build
 -	requirements.txt
 -	Makefile
 
-> hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.    
+> *hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.*    
 
 - **slide 1:** import dependencies.  
 - **slide 2:** test locally on a development server.  here we call **app create** before calling main.py with python but this could have gone in any order since app create still is a local development environment command.   
