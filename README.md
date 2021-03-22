@@ -12,7 +12,7 @@ Transcript & slides are below.  Please click this demo video to hear it with sou
 Steve Depp MSDS 434 section 55 
 
 Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build.
-(This implements via gcloud the architecture demo'd via GCP console by Noah Gift [here](https://www.youtube.com/watch?v=_TfWdOvQXwU)).
+(This implements via gcloud CLI the architecture demo'd via GCP console by Noah Gift [here](https://www.youtube.com/watch?v=_TfWdOvQXwU)).
 
 **Development: Hello_world flask app with the usual suspects:**.  
 - app.yaml
