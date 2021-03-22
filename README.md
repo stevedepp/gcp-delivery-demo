@@ -5,7 +5,8 @@ A demo of development production environments implemented via gcloud
 ![demo](https://user-images.githubusercontent.com/38410965/111925621-0a688100-8a80-11eb-8087-4662b5a78992.mp4)
 
 
-## Demo Video 7
+> **7.1** *hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.* 
+
 ### Development and Production Environments
 Steve Depp MSDS 434 section 55 
 
@@ -22,7 +23,7 @@ Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build
 
 <img width="682" alt="Backup File" src="https://user-images.githubusercontent.com/38410965/112039674-aba41580-8b1a-11eb-830b-4ef21b36cf20.png">
 
-> *hello everyone thank you for watching this video that quickly demos using local terminal and git for app development and Google app engine for production.  and finally a trigger linkage between them for CICD.  we start with the basics: app, main, requirements, and make file.*    
+   
 
 - **slide 1:** import dependencies.  
 - **slide 2:** test locally on a development server.  here we call **app create** before calling main.py with python but this could have gone in any order since app create still is a local development environment command.   
